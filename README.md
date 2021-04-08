@@ -2,13 +2,10 @@
 
 A new Flutter application.
 
-## Screen
-![Ekran Resmi 2020-10-25 22 45 56](https://user-images.githubusercontent.com/65519308/97118693-84d4e500-171c-11eb-919a-5c83fded633d.png)
-
-### Gif
+## Gif
 ![dynamic_loginPage](https://user-images.githubusercontent.com/65519308/114028431-22fad880-9881-11eb-87a4-350c52cc96c9.gif)
 
-#### Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
