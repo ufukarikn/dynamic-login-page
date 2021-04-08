@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## Gif
-![dynamic_loginPage](https://user-images.githubusercontent.com/65519308/114028431-22fad880-9881-11eb-87a4-350c52cc96c9.gif)
+![dynamic_loginPage](https://user-images.githubusercontent.com/65519308/114029296-0b701f80-9882-11eb-92bc-3c751f160694.gif)
 
 ### Getting Started
 
